@@ -1,4 +1,4 @@
-HoneyGuard 
+
 HoneyGuard protects Indian beekeepers from ₹2000cr annual adulteration losses through a 90x90mm 8-layer production PCB combining honey purity detection with comprehensive hive health monitoring.
 
 Purity Detection (97% vs lab HPLC): BME688 VOC gas spectroscopy + AS7341 11-channel spectral analysis identifies rice syrup/HFCS/cane sugar contamination at frame level.
